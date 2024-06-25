@@ -1,2 +1,3 @@
 Initial commit
 Second commit on master
+Commit on my_branch
